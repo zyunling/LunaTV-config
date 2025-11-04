@@ -21,7 +21,7 @@ https://raw.githubusercontent.com/hafrey1/LunaTV-config/main/LunaTV-config.txt
 
 ## API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2025-11-04 16:20 CST）
+## API 状态（最近更新：2025-11-04 20:31 CST）
 
 - 总 API 数量：77
 - 成功 API 数量：74
@@ -64,9 +64,9 @@ https://raw.githubusercontent.com/hafrey1/LunaTV-config/main/LunaTV-config.txt
 | ✅ | TV-新浪资源 | https://api.xinlangapi.com/xinlangapi.php/provide/vod | 100 | 0 | 100.0% | 0 |  |
 | ✅ | TV-旺旺短剧 | https://wwzy.tv/api.php/provide/vod | 100 | 0 | 100.0% | 0 |  |
 | ✅ | TV-旺旺资源 | https://api.wwzy.tv/api.php/provide/vod | 100 | 0 | 100.0% | 0 |  |
-| 🚨 | TV-豪华资源 | https://hhzyapi.com/api.php/provide/vod | 46 | 54 | 46.0% | 54 |  |
+| 🚨 | TV-豪华资源 | https://hhzyapi.com/api.php/provide/vod | 45 | 55 | 45.0% | 55 |  |
 | ✅ | TV-速播资源 | https://subocaiji.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |  |
-| 🚨 | TV-小猫咪 | https://zy.xmm.hk/api.php/provide/vod | 21 | 79 | 21.0% | 78 |  |
+| 🚨 | TV-小猫咪 | https://zy.xmm.hk/api.php/provide/vod | 20 | 80 | 20.0% | 79 |  |
 | ✅ | TV-虎牙资源 | https://www.huyaapi.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |  |
 | ✅ | TV-金鹰点播 | https://jinyingzy.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |  |
 | ✅ | TV-金鹰资源 | https://jyzyapi.com/provide/vod/from/jinyingyun/at/json | 100 | 0 | 100.0% | 0 |  |
@@ -95,7 +95,7 @@ https://raw.githubusercontent.com/hafrey1/LunaTV-config/main/LunaTV-config.txt
 | ✅ | AV-细胞资源 | https://www.xxibaozyw.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |  |
 | ✅ | AV-jkun资源 | https://jkunzyapi.com/api.php/provide/vod | 96 | 4 | 96.0% | 0 |  |
 | ✅ | AV-杏吧资源 | https://xingba111.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |  |
-| ✅ | AV-色南国 | https://api.sexnguon.com/api.php/provide/vod | 97 | 3 | 97.0% | 0 |  |
+| ✅ | AV-色南国 | https://api.sexnguon.com/api.php/provide/vod | 98 | 2 | 98.0% | 0 |  |
 | ✅ | AV-乐播资源 | https://lbapi9.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |  |
 | ✅ | AV-美少女 | https://www.msnii.com/api/json.php | 100 | 0 | 100.0% | 0 |  |
 | ✅ | AV-奥斯卡 | https://aosikazy.com/api.php/provide/vod | 98 | 2 | 98.0% | 0 |  |
