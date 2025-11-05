@@ -21,7 +21,7 @@ https://raw.githubusercontent.com/hafrey1/LunaTV-config/main/LunaTV-config.txt
 
 ## API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2025-11-05 09:08 CST）
+## API 状态（最近更新：2025-11-05 12:19 CST）
 
 - 总 API 数量：77
 - 成功 API 数量：74
@@ -64,9 +64,9 @@ https://raw.githubusercontent.com/hafrey1/LunaTV-config/main/LunaTV-config.txt
 | ✅ | TV-新浪资源 | https://api.xinlangapi.com/xinlangapi.php/provide/vod | 100 | 0 | 100.0% | 0 |  |
 | ✅ | TV-旺旺短剧 | https://wwzy.tv/api.php/provide/vod | 100 | 0 | 100.0% | 0 |  |
 | ✅ | TV-旺旺资源 | https://api.wwzy.tv/api.php/provide/vod | 100 | 0 | 100.0% | 0 |  |
-| 🚨 | TV-豪华资源 | https://hhzyapi.com/api.php/provide/vod | 42 | 58 | 42.0% | 58 |  |
+| 🚨 | TV-豪华资源 | https://hhzyapi.com/api.php/provide/vod | 41 | 59 | 41.0% | 59 |  |
 | ✅ | TV-速播资源 | https://subocaiji.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |  |
-| 🚨 | TV-小猫咪 | https://zy.xmm.hk/api.php/provide/vod | 18 | 82 | 18.0% | 82 |  |
+| 🚨 | TV-小猫咪 | https://zy.xmm.hk/api.php/provide/vod | 17 | 83 | 17.0% | 83 |  |
 | ✅ | TV-虎牙资源 | https://www.huyaapi.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |  |
 | ✅ | TV-金鹰点播 | https://jinyingzy.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |  |
 | ✅ | TV-金鹰资源 | https://jyzyapi.com/provide/vod/from/jinyingyun/at/json | 100 | 0 | 100.0% | 0 |  |
