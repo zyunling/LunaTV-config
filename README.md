@@ -21,11 +21,11 @@ https://raw.githubusercontent.com/hafrey1/LunaTV-config/main/LunaTV-config.txt
 
 ## API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2025-11-13 16:20 CST）
+## API 状态（最近更新：2025-11-13 20:30 CST）
 
 - 总 API 数量：77
-- 成功 API 数量：73
-- 失败 API 数量：4
+- 成功 API 数量：74
+- 失败 API 数量：3
 - 重复 API 数量：0
 
 <div style="font-size: 11px;">
@@ -100,7 +100,7 @@ https://raw.githubusercontent.com/hafrey1/LunaTV-config/main/LunaTV-config.txt
 | ✅ | AV-美少女 | https://www.msnii.com/api/json.php | 100 | 0 | 100.0% | 0 |  |
 | ✅ | AV-奥斯卡 | https://aosikazy.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |  |
 | ✅ | AV-奶香资源 | https://Naixxzy.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |  |
-| ❌ | AV-森林资源 | https://beiyong.slapibf.com/api.php/provide/vod | 97 | 3 | 97.0% | 1 |  |
+| ✅ | AV-森林资源 | https://beiyong.slapibf.com/api.php/provide/vod | 97 | 3 | 97.0% | 0 |  |
 | ✅ | AV-色猫资源 | https://caiji.semaozy.net/inc/apijson_vod.php | 100 | 0 | 100.0% | 0 |  |
 | ✅ | AV-辣椒资源 | https://apilj.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |  |
 | ✅ | AV-鲨鱼资源 | https://shayuapi.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |  |
