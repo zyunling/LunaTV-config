@@ -21,11 +21,11 @@ https://raw.githubusercontent.com/hafrey1/LunaTV-config/main/LunaTV-config.txt
 
 ## API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-01-11 09:20 CST）
+## API 状态（最近更新：2026-01-11 12:43 CST）
 
 - 总 API 数量：77
-- 成功 API 数量：71
-- 失败 API 数量：6
+- 成功 API 数量：70
+- 失败 API 数量：7
 - 重复 API 数量：0
 
 <div style="font-size: 11px;">
@@ -34,7 +34,7 @@ https://raw.githubusercontent.com/hafrey1/LunaTV-config/main/LunaTV-config.txt
 | 状态 | API 名称 | API 地址 | 成功次数 | 失败次数 | 可用率 | 连续失败天数 |
 |------|----------|----------|---------:|---------:|-------:|-------------:|
 | ✅ | TV-爱奇艺 | https://iqiyizyapi.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |  |
-| ✅ | TV-豆瓣资源 | https://caiji.dbzy5.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |  |
+| ❌ | TV-豆瓣资源 | https://caiji.dbzy5.com/api.php/provide/vod | 99 | 1 | 99.0% | 1 |  |
 | ✅ | TV-天涯影视 | https://tyyszy.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |  |
 | ✅ | TV-CK资源 | https://ckzy.me/api.php/provide/vod | 99 | 1 | 99.0% | 0 |  |
 | ✅ | TV-茅台资源 | https://caiji.maotaizy.cc/api.php/provide/vod | 100 | 0 | 100.0% | 0 |  |
@@ -64,7 +64,7 @@ https://raw.githubusercontent.com/hafrey1/LunaTV-config/main/LunaTV-config.txt
 | ✅ | TV-新浪资源 | https://api.xinlangapi.com/xinlangapi.php/provide/vod | 99 | 1 | 99.0% | 0 |  |
 | ✅ | TV-旺旺短剧 | https://wwzy.tv/api.php/provide/vod | 96 | 4 | 96.0% | 0 |  |
 | ✅ | TV-旺旺资源 | https://api.wwzy.tv/api.php/provide/vod | 96 | 4 | 96.0% | 0 |  |
-| ✅ | TV-豪华资源 | https://hhzyapi.com/api.php/provide/vod | 93 | 7 | 93.0% | 0 |  |
+| ✅ | TV-豪华资源 | https://hhzyapi.com/api.php/provide/vod | 94 | 6 | 94.0% | 0 |  |
 | ✅ | TV-速播资源 | https://subocaiji.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |  |
 | 🚨 | TV-小猫咪 | https://zy.xmm.hk/api.php/provide/vod | 0 | 100 | 0.0% | 100 |  |
 | ✅ | TV-虎牙资源 | https://www.huyaapi.com/api.php/provide/vod | 95 | 5 | 95.0% | 0 |  |
@@ -90,7 +90,7 @@ https://raw.githubusercontent.com/hafrey1/LunaTV-config/main/LunaTV-config.txt
 | ✅ | AV-优优资源 | https://www.yyzywcj.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |  |
 | ✅ | AV-小鸡资源 | https://api.xiaojizy.live/provide/vod | 100 | 0 | 100.0% | 0 |  |
 | ✅ | AV-黄AVZY | https://www.pgxdy.com/api/json.php | 100 | 0 | 100.0% | 0 |  |
-| ❌ | AV-黄色仓库 | https://hsckzy.xyz/api.php/provide/vod | 86 | 14 | 86.0% | 1 |  |
+| ❌ | AV-黄色仓库 | https://hsckzy.xyz/api.php/provide/vod | 85 | 15 | 85.0% | 2 |  |
 | ✅ | AV-大奶子 | https://apidanaizi.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |  |
 | ✅ | AV-细胞资源 | https://www.xxibaozyw.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |  |
 | ✅ | AV-jkun资源 | https://jkunzyapi.com/api.php/provide/vod | 95 | 5 | 95.0% | 0 |  |
@@ -102,7 +102,7 @@ https://raw.githubusercontent.com/hafrey1/LunaTV-config/main/LunaTV-config.txt
 | ✅ | AV-奶香资源 | https://Naixxzy.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |  |
 | ✅ | AV-森林资源 | https://beiyong.slapibf.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |  |
 | ✅ | AV-色猫资源 | https://caiji.semaozy.net/inc/apijson_vod.php | 99 | 1 | 99.0% | 0 |  |
-| ✅ | AV-辣椒资源 | https://apilj.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |  |
+| ✅ | AV-辣椒资源 | https://apilj.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |  |
 | ✅ | AV-鲨鱼资源 | https://shayuapi.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |  |
 | ✅ | AV-幸资源 | https://xzybb2.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |  |
 | ✅ | AV-大地资源 | https://dadiapi.com/feifei2 | 100 | 0 | 100.0% | 0 |  |
