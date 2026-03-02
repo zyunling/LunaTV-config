@@ -21,7 +21,7 @@ https://raw.githubusercontent.com/hafrey1/LunaTV-config/main/LunaTV-config.txt
 
 ## API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-03-02 13:13 CST）
+## API 状态（最近更新：2026-03-02 16:37 CST）
 
 - 总 API 数量：77
 - 成功 API 数量：71
@@ -92,7 +92,7 @@ https://raw.githubusercontent.com/hafrey1/LunaTV-config/main/LunaTV-config.txt
 | ✅ | AV-黄AVZY | https://www.pgxdy.com/api/json.php | 99 | 1 | 99.0% | 0 |  |
 | ✅ | AV-黄色仓库 | https://hsckzy.xyz/api.php/provide/vod | 80 | 20 | 80.0% | 0 |  |
 | ✅ | AV-大奶子 | https://apidanaizi.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |  |
-| ✅ | AV-细胞资源 | https://www.xxibaozyw.com/api.php/provide/vod | 96 | 4 | 96.0% | 0 |  |
+| ✅ | AV-细胞资源 | https://www.xxibaozyw.com/api.php/provide/vod | 97 | 3 | 97.0% | 0 |  |
 | ✅ | AV-jkun资源 | https://jkunzyapi.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |  |
 | ✅ | AV-杏吧资源 | https://xingba111.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |  |
 | 🚨 | AV-色南国 | https://api.sexnguon.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |  |
@@ -104,9 +104,9 @@ https://raw.githubusercontent.com/hafrey1/LunaTV-config/main/LunaTV-config.txt
 | ✅ | AV-色猫资源 | https://caiji.semaozy.net/inc/apijson_vod.php | 99 | 1 | 99.0% | 0 |  |
 | ✅ | AV-辣椒资源 | https://apilj.com/api.php/provide/vod | 98 | 2 | 98.0% | 0 |  |
 | ✅ | AV-鲨鱼资源 | https://shayuapi.com/api.php/provide/vod | 98 | 2 | 98.0% | 0 |  |
-| 🚨 | AV-幸资源 | https://xzybb2.com/api.php/provide/vod | 55 | 45 | 55.0% | 39 |  |
+| 🚨 | AV-幸资源 | https://xzybb2.com/api.php/provide/vod | 54 | 46 | 54.0% | 40 |  |
 | ✅ | AV-大地资源 | https://dadiapi.com/feifei2 | 98 | 2 | 98.0% | 0 |  |
-| 🚨 | AV-最色资源 | https://api.zuiseapi.com/api.php/provide/vod | 18 | 82 | 18.0% | 82 |  |
+| 🚨 | AV-最色资源 | https://api.zuiseapi.com/api.php/provide/vod | 17 | 83 | 17.0% | 83 |  |
 | ✅ | AV-豆豆资源 | https://api.douapi.cc/api.php/provide/vod | 100 | 0 | 100.0% | 0 |  |
 | ✅ | AV-滴滴资源 | https://api.ddapi.cc/api.php/provide/vod | 98 | 2 | 98.0% | 0 |  |
 | ✅ | AV-丝袜资源 | https://siwazyw.tv/api.php/provide/vod | 98 | 2 | 98.0% | 0 |  |
