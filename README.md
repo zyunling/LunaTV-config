@@ -21,7 +21,7 @@ https://raw.githubusercontent.com/hafrey1/LunaTV-config/main/LunaTV-config.txt
 
 ## API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-04-07 00:40 CST）
+## API 状态（最近更新：2026-04-07 04:33 CST）
 
 - 总 API 数量：77
 - 成功 API 数量：70
@@ -87,7 +87,7 @@ https://raw.githubusercontent.com/hafrey1/LunaTV-config/main/LunaTV-config.txt
 | ✅ | AV-精品资源 | https://www.jingpinx.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |  |
 | ✅ | AV-老色逼 | https://apilsbzy1.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |  |
 | ✅ | AV-桃花资源 | https://thzy1.me/api.php/provide/vod | 100 | 0 | 100.0% | 0 |  |
-| 🚨 | AV-优优资源 | https://www.yyzywcj.com/api.php/provide/vod | 63 | 37 | 63.0% | 37 |  |
+| 🚨 | AV-优优资源 | https://www.yyzywcj.com/api.php/provide/vod | 62 | 38 | 62.0% | 38 |  |
 | ✅ | AV-小鸡资源 | https://api.xiaojizy.live/provide/vod | 97 | 3 | 97.0% | 0 |  |
 | ✅ | AV-黄AVZY | https://www.pgxdy.com/api/json.php | 99 | 1 | 99.0% | 0 |  |
 | ✅ | AV-黄色仓库 | https://hsckzy.xyz/api.php/provide/vod | 86 | 14 | 86.0% | 0 |  |
@@ -107,7 +107,7 @@ https://raw.githubusercontent.com/hafrey1/LunaTV-config/main/LunaTV-config.txt
 | 🚨 | AV-幸资源 | https://xzybb2.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |  |
 | ✅ | AV-大地资源 | https://dadiapi.com/feifei2 | 99 | 1 | 99.0% | 0 |  |
 | 🚨 | AV-最色资源 | https://api.zuiseapi.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |  |
-| ✅ | AV-豆豆资源 | https://api.douapi.cc/api.php/provide/vod | 54 | 46 | 54.0% | 0 |  |
+| ✅ | AV-豆豆资源 | https://api.douapi.cc/api.php/provide/vod | 55 | 45 | 55.0% | 0 |  |
 | ✅ | AV-滴滴资源 | https://api.ddapi.cc/api.php/provide/vod | 100 | 0 | 100.0% | 0 |  |
 | ✅ | AV-丝袜资源 | https://siwazyw.tv/api.php/provide/vod | 99 | 1 | 99.0% | 0 |  |
 <!-- API_TABLE_END -->
