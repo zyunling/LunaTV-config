@@ -21,11 +21,11 @@ https://raw.githubusercontent.com/hafrey1/LunaTV-config/main/LunaTV-config.txt
 
 ## API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-04-14 21:13 CST）
+## API 状态（最近更新：2026-04-15 00:59 CST）
 
 - 总 API 数量：77
-- 成功 API 数量：70
-- 失败 API 数量：7
+- 成功 API 数量：69
+- 失败 API 数量：8
 - 重复 API 数量：0
 
 <div style="font-size: 11px;">
@@ -87,9 +87,9 @@ https://raw.githubusercontent.com/hafrey1/LunaTV-config/main/LunaTV-config.txt
 | ✅ | AV-精品资源 | https://www.jingpinx.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |  |
 | ✅ | AV-老色逼 | https://apilsbzy1.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |  |
 | ✅ | AV-桃花资源 | https://thzy1.me/api.php/provide/vod | 100 | 0 | 100.0% | 0 |  |
-| 🚨 | AV-优优资源 | https://www.yyzywcj.com/api.php/provide/vod | 16 | 84 | 16.0% | 84 |  |
+| 🚨 | AV-优优资源 | https://www.yyzywcj.com/api.php/provide/vod | 15 | 85 | 15.0% | 85 |  |
 | ✅ | AV-小鸡资源 | https://api.xiaojizy.live/provide/vod | 96 | 4 | 96.0% | 0 |  |
-| ✅ | AV-黄AVZY | https://www.pgxdy.com/api/json.php | 99 | 1 | 99.0% | 0 |  |
+| ❌ | AV-黄AVZY | https://www.pgxdy.com/api/json.php | 98 | 2 | 98.0% | 1 |  |
 | ✅ | AV-黄色仓库 | https://hsckzy.xyz/api.php/provide/vod | 85 | 15 | 85.0% | 0 |  |
 | ✅ | AV-大奶子 | https://apidanaizi.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |  |
 | ✅ | AV-细胞资源 | https://www.xxibaozyw.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |  |
