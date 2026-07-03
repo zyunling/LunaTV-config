@@ -21,11 +21,11 @@ https://raw.githubusercontent.com/hafrey1/LunaTV-config/main/LunaTV-config.txt
 
 ## API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-07-03 10:15 CST）
+## API 状态（最近更新：2026-07-03 14:56 CST）
 
 - 总 API 数量：77
-- 成功 API 数量：70
-- 失败 API 数量：7
+- 成功 API 数量：69
+- 失败 API 数量：8
 - 重复 API 数量：0
 
 <div style="font-size: 11px;">
@@ -37,7 +37,7 @@ https://raw.githubusercontent.com/hafrey1/LunaTV-config/main/LunaTV-config.txt
 | ✅ | TV-豆瓣资源 | https://caiji.dbzy5.com/api.php/provide/vod | 69 | 31 | 69.0% | 0 |  |
 | ✅ | TV-天涯影视 | https://tyyszy.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |  |
 | ✅ | TV-CK资源 | https://ckzy.me/api.php/provide/vod | 100 | 0 | 100.0% | 0 |  |
-| ✅ | TV-茅台资源 | https://caiji.maotaizy.cc/api.php/provide/vod | 64 | 36 | 64.0% | 0 |  |
+| ✅ | TV-茅台资源 | https://caiji.maotaizy.cc/api.php/provide/vod | 65 | 35 | 65.0% | 0 |  |
 | ✅ | TV-卧龙资源 | https://wolongzyw.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |  |
 | ✅ | TV-iKun资源 | https://ikunzyapi.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |  |
 | ✅ | TV-量子资源 | https://cj.lziapi.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |  |
@@ -47,8 +47,8 @@ https://raw.githubusercontent.com/hafrey1/LunaTV-config/main/LunaTV-config.txt
 | ✅ | TV-量子资源 | https://cj.lzcaiji.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |  |
 | ✅ | TV-如意资源 | https://cj.rycjapi.com/api.php/provide/vod | 98 | 2 | 98.0% | 0 |  |
 | ✅ | TV-360资源 | https://360zy.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |  |
-| ✅ | TV-卧龙资源1 | https://collect.wolongzyw.com/api.php/provide/vod | 31 | 69 | 31.0% | 0 |  |
-| 🚨 | TV-极速资源 | https://jszyapi.com/api.php/provide/vod | 95 | 5 | 95.0% | 5 |  |
+| ✅ | TV-卧龙资源1 | https://collect.wolongzyw.com/api.php/provide/vod | 32 | 68 | 32.0% | 0 |  |
+| 🚨 | TV-极速资源 | https://jszyapi.com/api.php/provide/vod | 94 | 6 | 94.0% | 6 |  |
 | ✅ | TV-魔都资源 | https://www.mdzyapi.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |  |
 | 🚨 | TV-魔爪资源 | https://mozhuazy.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |  |
 | ✅ | TV-非凡资源 | https://api.ffzyapi.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |  |
@@ -104,7 +104,7 @@ https://raw.githubusercontent.com/hafrey1/LunaTV-config/main/LunaTV-config.txt
 | ✅ | AV-色猫资源 | https://caiji.semaozy.net/inc/apijson_vod.php | 100 | 0 | 100.0% | 0 |  |
 | ✅ | AV-辣椒资源 | https://apilj.com/api.php/provide/vod | 91 | 9 | 91.0% | 0 |  |
 | ✅ | AV-鲨鱼资源 | https://shayuapi.com/api.php/provide/vod | 96 | 4 | 96.0% | 0 |  |
-| ✅ | AV-幸资源 | https://xzybb2.com/api.php/provide/vod | 6 | 94 | 6.0% | 0 |  |
+| ❌ | AV-幸资源 | https://xzybb2.com/api.php/provide/vod | 6 | 94 | 6.0% | 1 |  |
 | ✅ | AV-大地资源 | https://dadiapi.com/feifei2 | 100 | 0 | 100.0% | 0 |  |
 | 🚨 | AV-最色资源 | https://api.zuiseapi.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |  |
 | ✅ | AV-豆豆资源 | https://api.douapi.cc/api.php/provide/vod | 99 | 1 | 99.0% | 0 |  |
