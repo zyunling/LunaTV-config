@@ -21,7 +21,7 @@ https://raw.githubusercontent.com/hafrey1/LunaTV-config/main/LunaTV-config.txt
 
 ## API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-08-19 08:51 CST）
+## API 状态（最近更新：2026-08-19 12:31 CST）
 
 - 总 API 数量：77
 - 成功 API 数量：68
@@ -68,7 +68,7 @@ https://raw.githubusercontent.com/hafrey1/LunaTV-config/main/LunaTV-config.txt
 | ✅ | TV-速播资源 | https://subocaiji.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |  |
 | 🚨 | TV-小猫咪 | https://zy.xmm.hk/api.php/provide/vod | 0 | 100 | 0.0% | 100 |  |
 | ✅ | TV-虎牙资源 | https://www.huyaapi.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |  |
-| ✅ | TV-金鹰点播 | https://jinyingzy.com/api.php/provide/vod | 51 | 49 | 51.0% | 0 |  |
+| ✅ | TV-金鹰点播 | https://jinyingzy.com/api.php/provide/vod | 52 | 48 | 52.0% | 0 |  |
 | ✅ | TV-金鹰资源 | https://jyzyapi.com/provide/vod/from/jinyingyun/at/json | 100 | 0 | 100.0% | 0 |  |
 | 🚨 | TV-飘零资源 | https://p2100.net/api.php/provide/vod | 0 | 100 | 0.0% | 100 |  |
 | ✅ | TV-U酷资源 | https://api.ukuapi.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |  |
@@ -77,7 +77,7 @@ https://raw.githubusercontent.com/hafrey1/LunaTV-config/main/LunaTV-config.txt
 | ✅ | TV-红牛资源 | https://www.hongniuzy2.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |  |
 | ✅ | TV-魔都动漫 | https://caiji.moduapi.cc/api.php/provide/vod | 100 | 0 | 100.0% | 0 |  |
 | ✅ | AV-91麻豆 | https://91md.me/api.php/provide/vod | 99 | 1 | 99.0% | 0 |  |
-| ✅ | AV-AIvin | http://lbapiby.com/api.php/provide/vod | 98 | 2 | 98.0% | 0 |  |
+| ✅ | AV-AIvin | http://lbapiby.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |  |
 | 🚨 | AV-百万资源 | https://api.bwzyz.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |  |
 | ✅ | AV-souavZY | https://api.souavzy.vip/api.php/provide/vod | 100 | 0 | 100.0% | 0 |  |
 | ✅ | AV-155资源 | https://155api.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |  |
@@ -96,7 +96,7 @@ https://raw.githubusercontent.com/hafrey1/LunaTV-config/main/LunaTV-config.txt
 | ✅ | AV-jkun资源 | https://jkunzyapi.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |  |
 | ✅ | AV-杏吧资源 | https://xingba111.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |  |
 | 🚨 | AV-色南国 | https://api.sexnguon.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |  |
-| ✅ | AV-乐播资源 | https://lbapi9.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |  |
+| ✅ | AV-乐播资源 | https://lbapi9.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |  |
 | ✅ | AV-美少女 | https://www.msnii.com/api/json.php | 100 | 0 | 100.0% | 0 |  |
 | ✅ | AV-奥斯卡 | https://aosikazy.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |  |
 | ✅ | AV-奶香资源 | https://Naixxzy.com/api.php/provide/vod | 98 | 2 | 98.0% | 0 |  |
