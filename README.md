@@ -21,11 +21,11 @@ https://raw.githubusercontent.com/hafrey1/LunaTV-config/main/LunaTV-config.txt
 
 ## API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-09-19 16:26 CST）
+## API 状态（最近更新：2026-09-19 23:09 CST）
 
 - 总 API 数量：77
-- 成功 API 数量：69
-- 失败 API 数量：8
+- 成功 API 数量：68
+- 失败 API 数量：9
 - 重复 API 数量：0
 
 <div style="font-size: 11px;">
@@ -70,7 +70,7 @@ https://raw.githubusercontent.com/hafrey1/LunaTV-config/main/LunaTV-config.txt
 | ✅ | TV-虎牙资源 | https://www.huyaapi.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |  |
 | ✅ | TV-金鹰点播 | https://jinyingzy.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |  |
 | ✅ | TV-金鹰资源 | https://jyzyapi.com/provide/vod/from/jinyingyun/at/json | 100 | 0 | 100.0% | 0 |  |
-| ✅ | TV-飘零资源 | https://p2100.net/api.php/provide/vod | 12 | 88 | 12.0% | 0 |  |
+| ❌ | TV-飘零资源 | https://p2100.net/api.php/provide/vod | 12 | 88 | 12.0% | 1 |  |
 | ✅ | TV-U酷资源 | https://api.ukuapi.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |  |
 | ✅ | TV-U酷88 | https://api.ukuapi88.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |  |
 | ✅ | TV-光速资源 | https://api.guangsuapi.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |  |
